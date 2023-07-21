@@ -15,8 +15,6 @@ Database Used: MYSQL.
 
 Website Link: https://ec2-52-90-219-240.compute-1.amazonaws.com/dashboard/homepage.html
 
-Co-Teammates:
-1. Ede Naveen
-2. P Venkata Ganesh
+
 
 /idea has a wide range of scope to explore and development need to be accordingly to make it big/
